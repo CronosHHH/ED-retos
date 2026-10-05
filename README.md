@@ -1,2 +1,2 @@
-# EC-retos
-Retos de Estructura de Computadores
+# ED-retos
+Retos de Estructura de Datos
